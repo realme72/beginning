@@ -16,13 +16,12 @@ int main()
 
 int func(int a,int b)
 {
-	int x;
 	if(a==b)
 	{
-			return f1(a,b);
+		return f1(a,b);
 
 	}	
-	return f2(a,b);
+		return f2(a,b);
 }
 int f1(int x,int y)
 {
