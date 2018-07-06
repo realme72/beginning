@@ -8,6 +8,7 @@ int f2(int x,int y);
 int main()
 {
 	int a,b;
+	
 	printf("enter a and b\n");
 	scanf("%d%d",&a,&b);
 	printf("%d\n",func(a,b));

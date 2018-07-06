@@ -12,7 +12,6 @@ void func()
 {
 	int j;
 	for(j=1;j<3;j++)
-
 		printf("%d\t",++j);
 	printf("\n");
 }
