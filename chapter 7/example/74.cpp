@@ -11,7 +11,7 @@ int main ()
 	scanf("%d",&num);
 	printf("\n");
 
-	convert(num,2);			printf("\t");
+	convert(num,2);			printf("\n");
 	convert(num,8);			printf("\n");
 	convert(num,16);		printf("\n");
 
