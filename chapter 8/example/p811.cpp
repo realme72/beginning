@@ -4,7 +4,8 @@ using namespace std;
 #define row 3 
 #define col 4
 
-int main()
+int main() 
+
 {
 	int i,j,mat1[row][col],mat2[row][col],mat[row][col];
 
