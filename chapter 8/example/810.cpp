@@ -18,7 +18,7 @@ int main()
 	for(i=0; i<row; ++i)
 	{
 		for(j=0; j<col; ++j)
-			printf("%d\n",mat[i][j]);
+			printf("%d  ",mat[i][j]);
 		printf("\n");
 		
 	}
